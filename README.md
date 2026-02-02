@@ -35,7 +35,6 @@ The payload is protected with **ChaCha20-Poly1305** authenticated encryption (25
 - Basic payload capacity estimation & password strength feedback  
 - Salt shown as base64 (easy secure sharing)
 
-
 # 3. Install dependencies
 pip install -r requirements.txt
 
