@@ -1,0 +1,6 @@
+PyQt5>=5.15.0
+pillow>=9.0
+numpy>=1.23
+scipy>=1.9
+cryptography>=38.0
+qrcode>=7.3
