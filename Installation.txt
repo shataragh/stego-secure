@@ -1,0 +1,16 @@
+# 1. Clone the repository
+git clone https://github.com/shataragh/stego-secure.git
+cd stego-secure
+
+# 2. (Strongly recommended) Create & activate virtual environment
+python -m venv venv
+source venv/bin/activate          # Linux / macOS
+# or on Windows:
+.\venv\Scripts\activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Launch the application
+python main.py
+# or replace main.py with your actual entry-point filename
